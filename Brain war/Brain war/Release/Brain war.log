@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Brain war.cpp
+Brain war.cpp(129): warning C4002: too many actual parameters for macro 'CreateWindowW'
+Brain war.cpp(138): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Brain war.cpp(279): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Brain war.cpp(284): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Brain war.cpp(289): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  126 of 128 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Brain war.vcxproj -> E:\OneDrive\Documents\Visual Studio 2015\Projects\Brain war\Release\Brain war.exe
+  Brain war.vcxproj -> E:\OneDrive\Documents\Visual Studio 2015\Projects\Brain war\Release\Brain war.pdb (Full PDB)

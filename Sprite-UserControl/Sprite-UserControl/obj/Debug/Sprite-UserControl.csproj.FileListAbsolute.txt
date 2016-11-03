@@ -1,0 +1,9 @@
+E:\OneDrive\Documents\Visual Studio 2015\Projects\Sprite-UserControl\Sprite-UserControl\obj\Debug\Sprite_UserControl.Form1.resources
+E:\OneDrive\Documents\Visual Studio 2015\Projects\Sprite-UserControl\Sprite-UserControl\obj\Debug\Sprite_UserControl.Properties.Resources.resources
+E:\OneDrive\Documents\Visual Studio 2015\Projects\Sprite-UserControl\Sprite-UserControl\obj\Debug\Sprite_UserControl.ucSprite.resources
+E:\OneDrive\Documents\Visual Studio 2015\Projects\Sprite-UserControl\Sprite-UserControl\obj\Debug\Sprite-UserControl.csproj.GenerateResource.Cache
+E:\OneDrive\Documents\Visual Studio 2015\Projects\Sprite-UserControl\Sprite-UserControl\bin\Debug\Sprite-UserControl.exe.config
+E:\OneDrive\Documents\Visual Studio 2015\Projects\Sprite-UserControl\Sprite-UserControl\bin\Debug\Sprite-UserControl.exe
+E:\OneDrive\Documents\Visual Studio 2015\Projects\Sprite-UserControl\Sprite-UserControl\bin\Debug\Sprite-UserControl.pdb
+E:\OneDrive\Documents\Visual Studio 2015\Projects\Sprite-UserControl\Sprite-UserControl\obj\Debug\Sprite-UserControl.exe
+E:\OneDrive\Documents\Visual Studio 2015\Projects\Sprite-UserControl\Sprite-UserControl\obj\Debug\Sprite-UserControl.pdb

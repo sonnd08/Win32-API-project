@@ -1,0 +1,8 @@
+﻿  Brain war.cpp
+c:\users\001ic\onedrive\documents\visual studio 2015\projects\brain war\brain war\brain war.cpp(129): warning C4002: too many actual parameters for macro 'CreateWindowW'
+c:\users\001ic\onedrive\documents\visual studio 2015\projects\brain war\brain war\brain war.cpp(138): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\001ic\onedrive\documents\visual studio 2015\projects\brain war\brain war\brain war.cpp(279): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\001ic\onedrive\documents\visual studio 2015\projects\brain war\brain war\brain war.cpp(284): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\001ic\onedrive\documents\visual studio 2015\projects\brain war\brain war\brain war.cpp(289): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Brain war.vcxproj -> c:\users\001ic\onedrive\documents\visual studio 2015\Projects\Brain war\Debug\Brain war.exe
+  Brain war.vcxproj -> c:\users\001ic\onedrive\documents\visual studio 2015\Projects\Brain war\Debug\Brain war.pdb (Full PDB)
